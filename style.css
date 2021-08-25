@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(93, 95, 180);
+
+}
+h1{
+    color: rgb(245, 222, 11);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 16pt;
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+transition:0.2s;
+}
+p:hover{
+transition:0.2s;
+    transform: scale(1.1);
+}
